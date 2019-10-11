@@ -1,6 +1,6 @@
-## Welcome To HTML/CSS Contest
+# Welcome To HTML/CSS Contest
 
-# Instructions (YOU MUST READ THESE INSTRUCTION and UNDERSTAND)
+## Instructions (YOU MUST READ THESE INSTRUCTION and UNDERSTAND)
 
 1. You MUST fork this repository!
 2. You MUST clone your OWN forked repo
