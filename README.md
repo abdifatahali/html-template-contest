@@ -17,6 +17,8 @@
 4. Use the font for "Poppins" font in the font folder.
 
 
+## Links and Colors
+
 Font Link: https://www.fontsquirrel.com/fonts/poppins
 
 Main Colors: 
