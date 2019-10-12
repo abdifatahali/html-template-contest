@@ -30,3 +30,21 @@ Blue2: #a300fd
 Text Black: #151748
 
 Footer Background: #222222
+
+# Ku Soo Dhawoow Tartanka HTML/CSS
+
+## Qaabka Isku duba ridida (WAA INAA RAACDO TALAABOONYINKA HOOS KU QEEXAN OOD FAHANTID).
+
+1. Waa inaad FORK dhahdaa code-kaan.
+2. Waa inaad CLONE dhahdaa markuu githubkaada kuu galo.
+3. Waa inaad aniga igu dartaa si CONTRIBTOR ah (Magaceyga Github waa duraanali)
+4. Markaad dhisida page-kaan dhameyso, kusoo PUSH garee github-kaada.
+5. Markaad PUSH soo dhahdo, waa inaad ila soo socodsiisaa ama aad PULL REQUEST sameysaa adigoo aniga REVIEWER iga dhigaayo.
+6. Waa inaad dhameysaa shaqada ka hor waqtiga DEADLINE-ka ah.
+
+## Waabka aad u sameynaysid code-kaada
+
+1. Waa inaa raacdaa qaabka ay sawirada meesha ku jiro (design_desktop.jpeg iyo design_mobile.jpeg) u egyihiin adigoo isticmaalayo HTML iyo CSS.
+2. Ma isticmaali kartid CSS FRAMEWORKS sida Bootstrap, lakin LESS iyo SASS waad isticmaali kartaa.
+3. Isticmaal sawirada, FONTS-ka ku jiro ASSETS FOLDER.
+4. Isticmaal farta "Poppins" la yiraahdo oo folder-ka Fonts ku jirto.
