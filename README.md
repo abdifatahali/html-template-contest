@@ -44,7 +44,7 @@ Footer Background: #222222
 5. Markaad PUSH soo dhahdo, waa inaad ila soo socodsiisaa ama aad PULL REQUEST sameysaa adigoo aniga REVIEWER iga dhigaayo.
 6. Waa inaad dhameysaa shaqada ka hor waqtiga DEADLINE-ka ah.
 
-## Waabka aad u sameynaysid code-kaada
+## Qaabka aad u sameynaysid code-kaada
 
 1. Waa inaa raacdaa qaabka ay sawirada meesha ku jiro (design_desktop.jpeg iyo design_mobile.jpeg) u egyihiin adigoo isticmaalayo HTML iyo CSS.
 2. Ma isticmaali kartid CSS FRAMEWORKS sida Bootstrap, lakin LESS iyo SASS waad isticmaali kartaa.
