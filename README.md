@@ -12,9 +12,10 @@
 ## Design and Coding Instructions
 
 1. You MUST follow the design files for desktop and mobile.
-2. You CAN NOT use any CSS framework except SASS or LESS.
-3. Use the assets in the assets folder.
-4. Use the font for "Poppins" font in the font folder.
+2. You HAVE TO use HTML and CSS ONLY!
+3. You CAN NOT use any CSS framework except SASS or LESS.
+4. Use the assets in the assets folder.
+5. Use the font for "Poppins" font in the font folder.
 
 
 ## Links and Colors
