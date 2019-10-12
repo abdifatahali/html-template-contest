@@ -16,6 +16,8 @@
 3. You CAN NOT use any CSS framework except SASS or LESS.
 4. Use the assets in the assets folder.
 5. Use the font for "Poppins" font in the font folder.
+6. No cheating, copying someone else's code or finding code online (I will check if you copied).
+7. The code has to be YOUR OWN CODE, otherwise you will be disqualified. 
 
 
 ## Links and Colors
@@ -48,3 +50,5 @@ Footer Background: #222222
 2. Ma isticmaali kartid CSS FRAMEWORKS sida Bootstrap, lakin LESS iyo SASS waad isticmaali kartaa.
 3. Isticmaal sawirada, FONTS-ka ku jiro ASSETS FOLDER.
 4. Isticmaal farta "Poppins" la yiraahdo oo folder-ka Fonts ku jirto.
+5. Ha qishin, qofna code-kiisa hasoo qaadan, waan fiirin in code-kaada meel kale aad kasoo qaadatay.
+
