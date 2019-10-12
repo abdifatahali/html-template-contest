@@ -11,7 +11,7 @@
 
 ## Design and Coding Instructions
 
-1. You MUST follow the design files for desktop and mobile.
+1. You MUST follow the design files for desktop/mobile and build ONE  RESPONSIVE HTML PAGE.
 2. You HAVE TO use HTML and CSS ONLY!
 3. You CAN NOT use any CSS framework except SASS or LESS.
 4. Use the assets in the assets folder.
